@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Cover](https://github.com/LauraH55/LauraH55/blob/master/img/cover.png)
+![Cover](https://github.com/LauraH55/LauraH55/blob/main/img/cover.png)
 
 
 <!--
